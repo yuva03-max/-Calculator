@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer glossy shadow -->
+    <path
+        android:fillColor="#15000000"
+        android:pathData="M31,23 h46 c4.4,0 8,3.6 8,8 v46 c0,4.4 -3.6,8 -8,8 h-46 c-4.4,0 -8,-3.6 -8,-8 v-46 c0,-4.4 3.6,-8 8,-8 z" />
+
+    <!-- Main Calculator Body -->
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M32,21 h44 c3.3,0 6,2.7 6,6 v50 c0,3.3 -2.7,6 -6,6 h-44 c-3.3,0 -6,-2.7 -6,-6 v-50 c0,-3.3 2.7,-6 6,-6 z" />
+
+    <!-- Inner Plate / Keyboard framing -->
+    <path
+        android:fillColor="#006064"
+        android:pathData="M34,23 h40 c2.2,0 4,1.8 4,4 v46 c0,2.2 -1.8,4 -4,4 h-40 c-2.2,0 -4,-1.8 -4,-4 v-46 c0,-2.2 1.8,-4 4,-4 z" />
+
+    <!-- Calculator Display Screen (Glowing Yellow/Green) -->
+    <path
+        android:fillColor="#B2FF59"
+        android:pathData="M38,27 h32 v8 h-32 v-8 z" />
+    
+    <!-- Faint display mathematical cursor line -->
+    <path
+        android:fillColor="#004D40"
+        android:pathData="M41,29 h8 v1 h-8 z" />
+    <path
+        android:fillColor="#004D40"
+        android:pathData="M66,29 h1 v4 h-1 z" />
+
+    <!-- Keyboard buttons row 1 (MC, MR, M+) -->
+    <path android:fillColor="#00838F" android:pathData="M38,39 h8 v5 h-8 z" />
+    <path android:fillColor="#00838F" android:pathData="M50,39 h8 v5 h-8 z" />
+    <path android:fillColor="#00838F" android:pathData="M62,39 h8 v5 h-8 z" />
+
+    <!-- Keyboard buttons row 2 (sin, cos, tan) -->
+    <path android:fillColor="#26C6DA" android:pathData="M38,47 h8 v5 h-8 z" />
+    <path android:fillColor="#26C6DA" android:pathData="M50,47 h8 v5 h-8 z" />
+    <path android:fillColor="#26C6DA" android:pathData="M62,47 h8 v5 h-8 z" />
+
+    <!-- Keyboard buttons row 3 (7, 8, 9) -->
+    <path android:fillColor="#FFFFFF" android:pathData="M38,55 h8 v5 h-8 z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M50,55 h8 v5 h-8 z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M62,55 h8 v5 h-8 z" />
+
+    <!-- Keyboard buttons row 4 (4, 5, 6) -->
+    <path android:fillColor="#FFFFFF" android:pathData="M38,63 h8 v5 h-8 z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M50,63 h8 v5 h-8 z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M62,63 h8 v5 h-8 z" />
+
+    <!-- Keyboard buttons row 5 (1, 2, 3 - Equal) -->
+    <path android:fillColor="#FFFFFF" android:pathData="M38,71 h8 v5 h-8 z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M50,71 h8 v5 h-8 z" />
+    <path android:fillColor="#FF9F1C" android:pathData="M62,71 h8 v5 h-8 z" />
+</vector>

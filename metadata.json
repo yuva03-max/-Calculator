@@ -1,0 +1,6 @@
+{
+  "name": "Scientific Calculator",
+  "description": "A modern and fully functional scientific calculator offering basic arithmetic, advanced trigonometric, logarithmic, memory operations, and a real-time calculation history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
